@@ -1,0 +1,12 @@
+[submodule "sc_common"]
+	path = sc_common
+	url = git@github.com:Xa4yPiva/sc_common.git
+[submodule "sc_amra"]
+	path = sc_amra
+	url = git@github.com:Xa4yPiva/sc_amra.git
+[submodule "sc_dmra"]
+	path = sc_dmra
+	url = git@github.com:Xa4yPiva/sc_dmra.git
+[submodule "matlab_utils"]
+	path = matlab_utils
+	url = git@github.com:Xa4yPiva/matlab_utils.git
