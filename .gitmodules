@@ -10,3 +10,9 @@
 [submodule "matlab_utils"]
 	path = matlab_utils
 	url = git@github.com:Xa4yPiva/matlab_utils.git
+[submodule "sc_ann"]
+	path = sc_ann
+	url = git@github.com:Xa4yPiva/sc_ann.git
+[submodule "sc_am_fm"]
+	path = sc_am_fm
+	url = git@github.com:Xa4yPiva/sc_am_fm.git
