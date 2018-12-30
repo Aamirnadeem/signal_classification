@@ -1,0 +1,7 @@
+*~
+*.tif
+*.fig
+*.mat
+*.png
+*.bin
+*/*signals
