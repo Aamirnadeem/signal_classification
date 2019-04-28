@@ -22,3 +22,6 @@
 [submodule "sc_ml"]
 	path = sc_ml
 	url = git@github.com:Xa4yPiva/sc_ml.git
+[submodule "sc_pocket_test"]
+	path = sc_pocket_test
+	url = git@github.com:Xa4yPiva/sc_pocket_test.git
