@@ -16,3 +16,6 @@
 [submodule "sc_am_fm"]
 	path = sc_am_fm
 	url = git@github.com:Xa4yPiva/sc_am_fm.git
+[submodule "sc_fhss_finder"]
+	path = sc_fhss_finder
+	url = git@github.com:Xa4yPiva/sc_fhss_finder.git
