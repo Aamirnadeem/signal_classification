@@ -19,3 +19,6 @@
 [submodule "sc_fhss_finder"]
 	path = sc_fhss_finder
 	url = git@github.com:Xa4yPiva/sc_fhss_finder.git
+[submodule "sc_ml"]
+	path = sc_ml
+	url = git@github.com:Xa4yPiva/sc_ml.git
